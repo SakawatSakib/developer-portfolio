@@ -1,0 +1,32 @@
+body{
+    font-family: 'Akaya Telivigala',cursive;
+    margin:0;
+}
+.orange-color{
+    color: orange;
+}
+.hire-button{
+    background-color: lightsalmon;
+}
+.half-width{
+    padding: 5%;
+    width:50%;
+}
+.half-width img{
+    width: 80%;
+}
+section{
+    display: flex;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(252, 220, 156), tomato);
+    color: white;
+    font-weight: 700;
+    padding:10px 40px;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
