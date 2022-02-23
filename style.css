@@ -15,7 +15,7 @@ body{
 .half-width img{
     width: 80%;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
